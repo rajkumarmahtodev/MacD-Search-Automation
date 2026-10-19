@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="28" passed="20" failed="8" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-16T14:16:55 IST" name="Default suite" finished-at="2026-10-16T14:22:17 IST" duration-ms="321795">
+    <groups>
+    </groups>
+    <test started-at="2026-10-16T14:16:55 IST" name="Default test" finished-at="2026-10-16T14:22:17 IST" duration-ms="321795">
+      <class name="tests.SearchTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:16:56 IST" name="setUp" finished-at="2026-10-16T14:17:01 IST" duration-ms="5898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:01 IST" name="initializePage" finished-at="2026-10-16T14:17:01 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method signature="TC_SEARCH_001_VerifySearchBarIsDisplayed()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:01 IST" name="TC_SEARCH_001_VerifySearchBarIsDisplayed" finished-at="2026-10-16T14:17:02 IST" duration-ms="651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_001_VerifySearchBarIsDisplayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:02 IST" name="tearDown" finished-at="2026-10-16T14:17:02 IST" duration-ms="288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:02 IST" name="setUp" finished-at="2026-10-16T14:17:08 IST" duration-ms="5531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_SEARCH_002_VerifySearchBarCanBeClicked()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:08 IST" name="TC_SEARCH_002_VerifySearchBarCanBeClicked" finished-at="2026-10-16T14:17:12 IST" duration-ms="4140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_002_VerifySearchBarCanBeClicked -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:08 IST" name="initializePage" finished-at="2026-10-16T14:17:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:12 IST" name="tearDown" finished-at="2026-10-16T14:17:12 IST" duration-ms="344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:12 IST" name="setUp" finished-at="2026-10-16T14:17:23 IST" duration-ms="10881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_SEARCH_003_SearchValidFoodItem()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:23 IST" name="TC_SEARCH_003_SearchValidFoodItem" finished-at="2026-10-16T14:17:26 IST" duration-ms="3176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_003_SearchValidFoodItem -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:23 IST" name="initializePage" finished-at="2026-10-16T14:17:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:26 IST" name="tearDown" finished-at="2026-10-16T14:17:27 IST" duration-ms="389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:27 IST" name="setUp" finished-at="2026-10-16T14:17:31 IST" duration-ms="3873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:31 IST" name="initializePage" finished-at="2026-10-16T14:17:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method signature="TC_SEARCH_004_SearchUsingEnterKey()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:31 IST" name="TC_SEARCH_004_SearchUsingEnterKey" finished-at="2026-10-16T14:17:34 IST" duration-ms="2826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_004_SearchUsingEnterKey -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:34 IST" name="tearDown" finished-at="2026-10-16T14:17:34 IST" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:34 IST" name="setUp" finished-at="2026-10-16T14:17:40 IST" duration-ms="6152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:40 IST" name="initializePage" finished-at="2026-10-16T14:17:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method signature="TC_SEARCH_005_SearchUsingPartialKeyword()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:40 IST" name="TC_SEARCH_005_SearchUsingPartialKeyword" finished-at="2026-10-16T14:17:42 IST" duration-ms="1617" status="FAIL">
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
+            <message>
+              <![CDATA[stale element reference: stale element not found in the current frame
+  (Session info: chrome=155.0.8059.80)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c70b959009030be6ab1084a152a0d517, clearElement {id=f.2AFA7A64B5B5BF155CAE68F2E52EE85E.d.90E06C1C1F04EB4F1E170BF718A300C1.e.773}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.80, chrome: {chromedriverVersion: 155.0.8059.84 (5869fe313571..., userDataDir: C:\Users\RAJ~1.MAH\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49900}, goog:processID: 25060, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49900/devtoo..., se:cdpVersion: 155.0.8059.80, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (c70b959009030be6ab1084a152a0d517)] -> xpath: //input[contains(@placeholder,'Search') or contains(@placeholder,'search')]]
+Session ID: c70b959009030be6ab1084a152a0d517]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
+  (Session info: chrome=155.0.8059.80)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c70b959009030be6ab1084a152a0d517, clearElement {id=f.2AFA7A64B5B5BF155CAE68F2E52EE85E.d.90E06C1C1F04EB4F1E170BF718A300C1.e.773}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.80, chrome: {chromedriverVersion: 155.0.8059.84 (5869fe313571..., userDataDir: C:\Users\RAJ~1.MAH\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49900}, goog:processID: 25060, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49900/devtoo..., se:cdpVersion: 155.0.8059.80, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (c70b959009030be6ab1084a152a0d517)] -> xpath: //input[contains(@placeholder,'Search') or contains(@placeholder,'search')]]
+Session ID: c70b959009030be6ab1084a152a0d517
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:129)
+at pages.SearchPage.enterSearchKeyword(SearchPage.java:106)
+at tests.SearchTest.TC_SEARCH_005_SearchUsingPartialKeyword(SearchTest.java:88)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_005_SearchUsingPartialKeyword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:42 IST" name="tearDown" finished-at="2026-10-16T14:17:42 IST" duration-ms="385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:42 IST" name="setUp" finished-at="2026-10-16T14:17:47 IST" duration-ms="4762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_SEARCH_006_SearchUsingShortKeyword()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:47 IST" name="TC_SEARCH_006_SearchUsingShortKeyword" finished-at="2026-10-16T14:17:50 IST" duration-ms="2991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_006_SearchUsingShortKeyword -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:47 IST" name="initializePage" finished-at="2026-10-16T14:17:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:50 IST" name="tearDown" finished-at="2026-10-16T14:17:50 IST" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:50 IST" name="setUp" finished-at="2026-10-16T14:17:54 IST" duration-ms="3764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_SEARCH_007_SearchUsingMixedCaseKeyword()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:54 IST" name="TC_SEARCH_007_SearchUsingMixedCaseKeyword" finished-at="2026-10-16T14:17:58 IST" duration-ms="4101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_007_SearchUsingMixedCaseKeyword -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:54 IST" name="initializePage" finished-at="2026-10-16T14:17:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:58 IST" name="tearDown" finished-at="2026-10-16T14:17:58 IST" duration-ms="336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:17:58 IST" name="setUp" finished-at="2026-10-16T14:18:02 IST" duration-ms="3762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:18:02 IST" name="initializePage" finished-at="2026-10-16T14:18:02 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method signature="TC_SEARCH_008_VerifyRelevantPaneerResults()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:18:02 IST" name="TC_SEARCH_008_VerifyRelevantPaneerResults" finished-at="2026-10-16T14:18:08 IST" duration-ms="6397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_008_VerifyRelevantPaneerResults -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:18:08 IST" name="tearDown" finished-at="2026-10-16T14:18:09 IST" duration-ms="306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:18:09 IST" name="setUp" finished-at="2026-10-16T14:18:13 IST" duration-ms="4665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_SEARCH_009_VerifyRelevantChickenResults()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:18:13 IST" name="TC_SEARCH_009_VerifyRelevantChickenResults" finished-at="2026-10-16T14:18:17 IST" duration-ms="3096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_009_VerifyRelevantChickenResults -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:18:13 IST" name="initializePage" finished-at="2026-10-16T14:18:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:18:17 IST" name="tearDown" finished-at="2026-10-16T14:18:17 IST" duration-ms="283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:18:17 IST" name="setUp" finished-at="2026-10-16T14:18:21 IST" duration-ms="4173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:18:21 IST" name="initializePage" finished-at="2026-10-16T14:18:21 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method signature="TC_SEARCH_010_VerifySearchResultsCount()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:18:21 IST" name="TC_SEARCH_010_VerifySearchResultsCount" finished-at="2026-10-16T14:18:24 IST" duration-ms="3349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_010_VerifySearchResultsCount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:18:24 IST" name="tearDown" finished-at="2026-10-16T14:18:25 IST" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:18:25 IST" name="setUp" finished-at="2026-10-16T14:18:29 IST" duration-ms="4024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_SEARCH_011_SearchInvalidFoodName()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:18:29 IST" name="TC_SEARCH_011_SearchInvalidFoodName" finished-at="2026-10-16T14:18:54 IST" duration-ms="25122" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Invalid food search should display no-results message expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Invalid food search should display no-results message expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at tests.SearchTest.TC_SEARCH_011_SearchInvalidFoodName(SearchTest.java:184)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_011_SearchInvalidFoodName -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:18:29 IST" name="initializePage" finished-at="2026-10-16T14:18:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:18:54 IST" name="tearDown" finished-at="2026-10-16T14:18:54 IST" duration-ms="459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:18:54 IST" name="setUp" finished-at="2026-10-16T14:18:58 IST" duration-ms="3728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_SEARCH_012_SearchRandomCharacters()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:18:58 IST" name="TC_SEARCH_012_SearchRandomCharacters" finished-at="2026-10-16T14:19:21 IST" duration-ms="22807" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Random characters should display no-results message expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Random characters should display no-results message expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at tests.SearchTest.TC_SEARCH_012_SearchRandomCharacters(SearchTest.java:198)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_012_SearchRandomCharacters -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:18:58 IST" name="initializePage" finished-at="2026-10-16T14:18:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:19:21 IST" name="tearDown" finished-at="2026-10-16T14:19:21 IST" duration-ms="407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:19:21 IST" name="setUp" finished-at="2026-10-16T14:19:25 IST" duration-ms="3388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_SEARCH_013_SearchNonExistingProduct()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:19:25 IST" name="TC_SEARCH_013_SearchNonExistingProduct" finished-at="2026-10-16T14:19:47 IST" duration-ms="22327" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Non-existing product should display no-results message expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Non-existing product should display no-results message expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at tests.SearchTest.TC_SEARCH_013_SearchNonExistingProduct(SearchTest.java:215)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_013_SearchNonExistingProduct -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:19:25 IST" name="initializePage" finished-at="2026-10-16T14:19:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:19:47 IST" name="tearDown" finished-at="2026-10-16T14:19:47 IST" duration-ms="382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:19:47 IST" name="setUp" finished-at="2026-10-16T14:19:51 IST" duration-ms="3560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:19:51 IST" name="initializePage" finished-at="2026-10-16T14:19:51 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method signature="TC_SEARCH_014_ClearSearchKeyword()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:19:51 IST" name="TC_SEARCH_014_ClearSearchKeyword" finished-at="2026-10-16T14:19:52 IST" duration-ms="856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_014_ClearSearchKeyword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:19:52 IST" name="tearDown" finished-at="2026-10-16T14:19:52 IST" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:19:52 IST" name="setUp" finished-at="2026-10-16T14:19:55 IST" duration-ms="3032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_SEARCH_015_ClearAndSearchAgain()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:19:55 IST" name="TC_SEARCH_015_ClearAndSearchAgain" finished-at="2026-10-16T14:19:56 IST" duration-ms="1014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_015_ClearAndSearchAgain -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:19:55 IST" name="initializePage" finished-at="2026-10-16T14:19:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:19:56 IST" name="tearDown" finished-at="2026-10-16T14:19:56 IST" duration-ms="293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:19:56 IST" name="setUp" finished-at="2026-10-16T14:20:01 IST" duration-ms="4469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:01 IST" name="initializePage" finished-at="2026-10-16T14:20:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method signature="TC_SEARCH_016_VerifyEmptySearch()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:01 IST" name="TC_SEARCH_016_VerifyEmptySearch" finished-at="2026-10-16T14:20:02 IST" duration-ms="1171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_016_VerifyEmptySearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:02 IST" name="tearDown" finished-at="2026-10-16T14:20:02 IST" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:02 IST" name="setUp" finished-at="2026-10-16T14:20:06 IST" duration-ms="3723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:06 IST" name="initializePage" finished-at="2026-10-16T14:20:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method signature="TC_SEARCH_017_VerifyVegFilterDisplayed()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:06 IST" name="TC_SEARCH_017_VerifyVegFilterDisplayed" finished-at="2026-10-16T14:20:07 IST" duration-ms="941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_017_VerifyVegFilterDisplayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:07 IST" name="tearDown" finished-at="2026-10-16T14:20:07 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:07 IST" name="setUp" finished-at="2026-10-16T14:20:11 IST" duration-ms="3716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_SEARCH_018_VerifyNonVegFilterDisplayed()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:11 IST" name="TC_SEARCH_018_VerifyNonVegFilterDisplayed" finished-at="2026-10-16T14:20:12 IST" duration-ms="1017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_018_VerifyNonVegFilterDisplayed -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:11 IST" name="initializePage" finished-at="2026-10-16T14:20:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:12 IST" name="tearDown" finished-at="2026-10-16T14:20:12 IST" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:12 IST" name="setUp" finished-at="2026-10-16T14:20:17 IST" duration-ms="4432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_SEARCH_019_ClickVegFilter()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:17 IST" name="TC_SEARCH_019_ClickVegFilter" finished-at="2026-10-16T14:20:18 IST" duration-ms="1259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_019_ClickVegFilter -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:17 IST" name="initializePage" finished-at="2026-10-16T14:20:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:18 IST" name="tearDown" finished-at="2026-10-16T14:20:18 IST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:18 IST" name="setUp" finished-at="2026-10-16T14:20:22 IST" duration-ms="4345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:22 IST" name="initializePage" finished-at="2026-10-16T14:20:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method signature="TC_SEARCH_020_ClickNonVegFilter()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:22 IST" name="TC_SEARCH_020_ClickNonVegFilter" finished-at="2026-10-16T14:20:25 IST" duration-ms="2189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_020_ClickNonVegFilter -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:25 IST" name="tearDown" finished-at="2026-10-16T14:20:25 IST" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:25 IST" name="setUp" finished-at="2026-10-16T14:20:28 IST" duration-ms="3376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:28 IST" name="initializePage" finished-at="2026-10-16T14:20:28 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method signature="TC_SEARCH_021_SearchAndApplyVegFilter()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:28 IST" name="TC_SEARCH_021_SearchAndApplyVegFilter" finished-at="2026-10-16T14:20:30 IST" duration-ms="1249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_021_SearchAndApplyVegFilter -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:30 IST" name="tearDown" finished-at="2026-10-16T14:20:30 IST" duration-ms="282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:30 IST" name="setUp" finished-at="2026-10-16T14:20:34 IST" duration-ms="4020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:34 IST" name="initializePage" finished-at="2026-10-16T14:20:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method signature="TC_SEARCH_022_SearchAndApplyNonVegFilter()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:34 IST" name="TC_SEARCH_022_SearchAndApplyNonVegFilter" finished-at="2026-10-16T14:20:35 IST" duration-ms="791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_022_SearchAndApplyNonVegFilter -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:35 IST" name="tearDown" finished-at="2026-10-16T14:20:35 IST" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:35 IST" name="setUp" finished-at="2026-10-16T14:20:42 IST" duration-ms="6824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:42 IST" name="initializePage" finished-at="2026-10-16T14:20:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method signature="TC_SEARCH_023_VerifyFoodItemsDisplayed()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:42 IST" name="TC_SEARCH_023_VerifyFoodItemsDisplayed" finished-at="2026-10-16T14:20:43 IST" duration-ms="888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_023_VerifyFoodItemsDisplayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:43 IST" name="tearDown" finished-at="2026-10-16T14:20:43 IST" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:43 IST" name="setUp" finished-at="2026-10-16T14:20:48 IST" duration-ms="5570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_SEARCH_024_VerifyFoodItemCount()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:48 IST" name="TC_SEARCH_024_VerifyFoodItemCount" finished-at="2026-10-16T14:20:49 IST" duration-ms="935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_024_VerifyFoodItemCount -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:48 IST" name="initializePage" finished-at="2026-10-16T14:20:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:49 IST" name="tearDown" finished-at="2026-10-16T14:20:50 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:50 IST" name="setUp" finished-at="2026-10-16T14:20:53 IST" duration-ms="3306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:53 IST" name="initializePage" finished-at="2026-10-16T14:20:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method signature="TC_SEARCH_025_ClickFoodItem()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:20:53 IST" name="TC_SEARCH_025_ClickFoodItem" finished-at="2026-10-16T14:21:10 IST" duration-ms="17209" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for presence of any elements located by By.xpath: //a[contains(@href,'menu')] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.80, chrome: {chromedriverVersion: 155.0.8059.84 (5869fe313571..., userDataDir: C:\Users\RAJ~1.MAH\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65150}, goog:processID: 19676, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65150/devtoo..., se:cdpVersion: 155.0.8059.80, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f63b5d6bf5d0f3575ca9896d1dd0ac2a]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of any elements located by By.xpath: //a[contains(@href,'menu')] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.80, chrome: {chromedriverVersion: 155.0.8059.84 (5869fe313571..., userDataDir: C:\Users\RAJ~1.MAH\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65150}, goog:processID: 19676, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65150/devtoo..., se:cdpVersion: 155.0.8059.80, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f63b5d6bf5d0f3575ca9896d1dd0ac2a
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at pages.SearchPage.clickFirstProduct(SearchPage.java:310)
+at tests.SearchTest.TC_SEARCH_025_ClickFoodItem(SearchTest.java:409)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_025_ClickFoodItem -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:21:10 IST" name="tearDown" finished-at="2026-10-16T14:21:11 IST" duration-ms="382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:21:11 IST" name="setUp" finished-at="2026-10-16T14:21:14 IST" duration-ms="3269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_SEARCH_026_VerifyFoodItemDetailsPage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:21:14 IST" name="TC_SEARCH_026_VerifyFoodItemDetailsPage" finished-at="2026-10-16T14:21:31 IST" duration-ms="17019" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for presence of any elements located by By.xpath: //a[contains(@href,'menu')] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.80, chrome: {chromedriverVersion: 155.0.8059.84 (5869fe313571..., userDataDir: C:\Users\RAJ~1.MAH\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62675}, goog:processID: 20000, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62675/devtoo..., se:cdpVersion: 155.0.8059.80, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bcd5e6b0683145eec010a8ce1b3351d0]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of any elements located by By.xpath: //a[contains(@href,'menu')] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.80, chrome: {chromedriverVersion: 155.0.8059.84 (5869fe313571..., userDataDir: C:\Users\RAJ~1.MAH\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62675}, goog:processID: 20000, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62675/devtoo..., se:cdpVersion: 155.0.8059.80, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bcd5e6b0683145eec010a8ce1b3351d0
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at pages.SearchPage.clickFirstProduct(SearchPage.java:310)
+at tests.SearchTest.TC_SEARCH_026_VerifyFoodItemDetailsPage(SearchTest.java:425)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_026_VerifyFoodItemDetailsPage -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:21:14 IST" name="initializePage" finished-at="2026-10-16T14:21:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:21:31 IST" name="tearDown" finished-at="2026-10-16T14:21:31 IST" duration-ms="403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:21:31 IST" name="setUp" finished-at="2026-10-16T14:21:35 IST" duration-ms="3635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:21:35 IST" name="initializePage" finished-at="2026-10-16T14:21:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method signature="TC_SEARCH_027_VerifyFoodItemDetailsURL()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:21:35 IST" name="TC_SEARCH_027_VerifyFoodItemDetailsURL" finished-at="2026-10-16T14:21:52 IST" duration-ms="16843" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for presence of any elements located by By.xpath: //a[contains(@href,'menu')] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.80, chrome: {chromedriverVersion: 155.0.8059.84 (5869fe313571..., userDataDir: C:\Users\RAJ~1.MAH\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59629}, goog:processID: 2736, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59629/devtoo..., se:cdpVersion: 155.0.8059.80, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 00925d0b19a99c8d7364597c6465cecd]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of any elements located by By.xpath: //a[contains(@href,'menu')] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.80, chrome: {chromedriverVersion: 155.0.8059.84 (5869fe313571..., userDataDir: C:\Users\RAJ~1.MAH\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59629}, goog:processID: 2736, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59629/devtoo..., se:cdpVersion: 155.0.8059.80, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 00925d0b19a99c8d7364597c6465cecd
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at pages.SearchPage.clickFirstProduct(SearchPage.java:310)
+at tests.SearchTest.TC_SEARCH_027_VerifyFoodItemDetailsURL(SearchTest.java:441)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_027_VerifyFoodItemDetailsURL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:21:52 IST" name="tearDown" finished-at="2026-10-16T14:21:52 IST" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:21:52 IST" name="setUp" finished-at="2026-10-16T14:21:56 IST" duration-ms="3991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_SEARCH_028_SearchFoodAndOpenDetails()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:21:56 IST" name="TC_SEARCH_028_SearchFoodAndOpenDetails" finished-at="2026-10-16T14:22:17 IST" duration-ms="20756" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for presence of any elements located by By.xpath: //a[contains(@href,'menu')] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.80, chrome: {chromedriverVersion: 155.0.8059.84 (5869fe313571..., userDataDir: C:\Users\RAJ~1.MAH\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49963}, goog:processID: 4920, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49963/devtoo..., se:cdpVersion: 155.0.8059.80, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb23e9a8c22c25f856bcf54aa1078b41]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of any elements located by By.xpath: //a[contains(@href,'menu')] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 155.0.8059.80, chrome: {chromedriverVersion: 155.0.8059.84 (5869fe313571..., userDataDir: C:\Users\RAJ~1.MAH\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49963}, goog:processID: 4920, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49963/devtoo..., se:cdpVersion: 155.0.8059.80, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb23e9a8c22c25f856bcf54aa1078b41
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at pages.SearchPage.clickFirstProduct(SearchPage.java:310)
+at tests.SearchTest.TC_SEARCH_028_SearchFoodAndOpenDetails(SearchTest.java:465)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SEARCH_028_SearchFoodAndOpenDetails -->
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:21:56 IST" name="initializePage" finished-at="2026-10-16T14:21:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@515c6049]" started-at="2026-10-16T14:22:17 IST" name="tearDown" finished-at="2026-10-16T14:22:17 IST" duration-ms="403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.SearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
